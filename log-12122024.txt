@@ -1,8 +1,0 @@
-dic 12, 2024 11:59:20 A. M. controladores.Main main
-INFO: Iniciando la aplicación...
-dic 12, 2024 11:59:20 A. M. servicios.OperativaImplementacion cargarCitas
-INFO: Citas cargadas correctamente desde el archivo.
-dic 12, 2024 11:59:24 A. M. servicios.MenuImplementacion iniciar
-INFO: Opción seleccionada: 2
-dic 12, 2024 11:59:33 A. M. servicios.MenuImplementacion mostrarListadoConsultas
-SEVERE: Error al procesar la fecha: 29-04-2024 - Cannot invoke "java.util.List.iterator()" because the return value of "servicios.OperativaInterfaz.mostrarConsultas(int, java.util.Date)" is null
